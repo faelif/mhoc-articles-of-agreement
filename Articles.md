@@ -16,9 +16,9 @@ THEREFORE the members of the Pirate Party declare and ratify the following Artic
 **Article 2: The Leadership**
 
 1. The leadership of the Party shall consist of the following roles:—
-  1. The Captain
-  2. The First Mate
-  3. The Quartermaster
+    1. The Captain
+    2. The First Mate
+    3. The Quartermaster
 2. The Captain shall be registered with the Electoral Commission as the Party's leader.
 3. The First Mate shall be registered with the Electoral Commission as the Party's deputy leader.
 4. There shall be no Quartermaster at such times as the Party has fewer than ten members.
@@ -70,7 +70,7 @@ THEREFORE the members of the Pirate Party declare and ratify the following Artic
 2. Half of this amount is to be donated to charities of the Captain's choice.
 3. Enough shall be spent to cover the costs of the Party.
 4. The remainder is to be divided as follows:
-  1. 2 shares for the Captain
-  2. 1½ shares for the First Mate
-  3. 1¼ shares for the Quartermaster
-  4. 1 share for all other members
+    1. 2 shares for the Captain
+    2. 1½ shares for the First Mate
+    3. 1¼ shares for the Quartermaster
+    4. 1 share for all other members
